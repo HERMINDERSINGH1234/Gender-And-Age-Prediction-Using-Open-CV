@@ -104,7 +104,6 @@
 # Support :
 If you found this project helpful or you learned something from the source code and want to thank me, consider me to pay my internet bills. This would encourage me to create many such projects 👨🏻‍💻
 <ul>
-  
-    <li><a href="https://imjo.in/XNZDCJ"><b>₹ (INR)</b></a></li>
-    <li><b>UPI ID :</b> 9950211387@axl</li>
+  <li><a href="https://imjo.in/XNZDCJ"><b>₹ (INR)</b></a></li>
+   <li><b>UPI ID :</b> 9950211387@axl</li>
 </ul>           
